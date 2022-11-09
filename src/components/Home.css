@@ -1,0 +1,13 @@
+@media (min-width: 500px) and (max-width: 768px) {
+    .mycss{
+        padding-top: 20%;
+    }
+  }
+@media  (max-width: 400px) {
+    .mycss{
+        padding-top: 25%;
+    }
+    .myimg{
+        width: fit-content;
+    }
+  }
